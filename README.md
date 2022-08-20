@@ -1,0 +1,5 @@
+- 👋 Hi, I’m tzk
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning stata
+- 💞️ I’m looking to collaborate on Cross-Border Electronic Commerce
+- 📫 My email ：tzk2021@163.com
